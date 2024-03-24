@@ -1,0 +1,5 @@
+[dbservers]
+54.92.167.224 ansible_user=ec2-user apache_package=httpd
+
+[webservers]
+34.207.100.150 apache_package=apache2
